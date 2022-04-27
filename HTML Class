@@ -1,0 +1,8 @@
+ <div class="icon-IG">
+                    @*<i class="ri-instagram-line icon-IG"></i>*@
+                    <h2>Instagram</h2>
+                    <p>
+                        View My Instagram;
+                    </p>
+                    <p><a class="btn btn-default" href="https://www.instagram.com/device_devs/">Click Here</a></p>
+                </div>
